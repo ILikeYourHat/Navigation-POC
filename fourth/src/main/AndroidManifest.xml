@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pl.softwarealchemy.fourth">
+
+    <application>
+        <activity android:name=".FourthActivity" />
+    </application>
+
+</manifest>

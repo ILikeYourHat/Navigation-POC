@@ -1,0 +1,7 @@
+rootProject.name='Modulepoc'
+include ':app'
+include ':first'
+include ':second'
+include ':third'
+include ':universe'
+include ':fourth'
